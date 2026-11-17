@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Comunaxo Horde Blocker
+## Notes: Oculta /say y /yell de la Horda en la Alianza. Automatico y sin interfaz.
+## Author: Comunaxo
+## Version: 1.1
+ComunaxoHordeBlocker.lua
